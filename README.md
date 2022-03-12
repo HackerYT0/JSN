@@ -1,3 +1,27 @@
-# JSN
+# TOOL NAME JISAN XD 
 
-Hlw Im Jisan Xd This Tool is Free
+☆apt update
+
+☆apt upgrade
+
+☆apt install python
+
+☆apt install python2
+
+☆apt install git
+
+☆pip2 install requests
+
+☆pip2 install mechanize
+
+☆pip2 install bs4
+
+☆pip2 install futures
+
+☆git clone https://github.com/HackerYT0/JSN
+
+# TO RUN TYPE
+
+☆cd JSN
+
+☆python2 JSN.py
