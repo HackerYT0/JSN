@@ -17,6 +17,8 @@
 ☆pip2 install bs4
 
 ☆pip2 install futures
+# update 
+☆ rm -rf JSN 
 
 ☆git clone https://github.com/HackerYT0/JSN
 
